@@ -1,0 +1,62 @@
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1233/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 18:07:38] "[37mGET /Building HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 18:07:38] "[32mGET /Building/static//style.css HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 18:07:38] "[32mGET /Building/static//script.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 18:07:38] "[37mGET /Building/static/style.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 18:07:38] "[37mGET /Building/static/script.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 18:07:39] "[32mGET /Building/static//favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 18:07:39] "[37mGET /Building/static/favicon.ico HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 18:23:39] "[37mGET /Building HTTP/1.0[0m" 200 -
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1233/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 20:20:52] "[37mGET /Building HTTP/1.0[0m" 200 -
+python3: can't open file 'Game.py': [Errno 2] No such file or directory
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1233/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Tower.py", line 11, in <module>
+    app.run(debug=True, port=1233)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1233/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+127.0.0.1 - - [18/Sep/2020 22:32:55] "[37mGET /Building HTTP/1.0[0m" 200 -
+127.0.0.1 - - [18/Sep/2020 22:32:55] "[36mGET /Building/static/style.css HTTP/1.0[0m" 304 -
+127.0.0.1 - - [18/Sep/2020 22:32:55] "[37mGET /Building/static/script.js HTTP/1.0[0m" 200 -

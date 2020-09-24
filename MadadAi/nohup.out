@@ -1,0 +1,1914 @@
+ * Serving Flask app "FormAction" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/telegram/ext/dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/usr/local/lib/python3.6/dist-packages/telegram/ext/handler.py", line 119, in handle_update
+    return self.callback(update, context)
+  File "Telegram_Api.py", line 34, in unknown
+    with open("Audios/Talks/Telegram/Talk.mp3",'wb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'Audios/Talks/Telegram/Talk.mp3'
+No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/telegram/ext/dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/usr/local/lib/python3.6/dist-packages/telegram/ext/handler.py", line 119, in handle_update
+    return self.callback(update, context)
+  File "Telegram_Api.py", line 34, in unknown
+    with open("Audios/Talks/Telegram/Talk.mp3",'wb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'Audios/Talks/Telegram/Talk.mp3'
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/telegram/ext/dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/usr/local/lib/python3.6/dist-packages/telegram/ext/handler.py", line 119, in handle_update
+    return self.callback(update, context)
+  File "Telegram_Api.py", line 34, in unknown
+    with open("Audios/Talks/Telegram/Talk.mp3",'wb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'Audios/Talks/Telegram/Talk.mp3'
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [10/Sep/2020 08:56:21] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 08:56:21] "[33mGET /main.css HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 08:56:22] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [10/Sep/2020 09:10:03] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:10:04] "[33mGET /main.css HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:19:02] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:02] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:02] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:02] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:02] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:03] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:19:03] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:19:04] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:05] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:19:05] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:19:05] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:05] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:19:06] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:19:06] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:06] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:19:06] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:19:06] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:07] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:19:07] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:19:07] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:19:07] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:19:08] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+ * Serving Flask app "FormAction" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:20:48] "[33mGET /Api/Text/آهنگ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 09:21:32] "[33mGET /Api/Text/dsds HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 09:26:06] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:26:06] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:26:07] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:26:07] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:26:07] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:26:07] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:26:08] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:26:08] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:29:44] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  صسثیسی
+In DataBase:   [0.0, 1638, 'Jsbevd ']
+,['صسثیسی']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:29:52] "[37mGET /Text/صثیصسثیصسضی HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  صثیصسثیصسضی
+In DataBase:   [0.0, 1640, 'صسثیسی ']
+,['صثیصسثیصسضی']
+
+,['صثیصسثیصسضی']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:29:59] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 09:29:59] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [10/Sep/2020 09:29:59] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:30:01] "[37mGET /Text/سیشیسشی HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  سیشیسشی
+In DataBase:   [0.0, 1641, 'صثیصسثیصسضی ']
+,['سیشیسشی']
+
+,['سیشیسشی']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:30:02] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:30:05] "[37mGET /Text/سیشیس HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  سیشیس
+In DataBase:   [0.0, 1643, 'سیشیسشی ']
+,['سیشیس']
+
+,['سیشیس']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:30:07] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 09:30:14] "[37mGET /Text/شسیشسی HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  شسیشسی
+In DataBase:   [0.0, 1645, 'سیشیس ']
+,['شسیشسی']
+
+,['شسیشسی']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:30:23] "[37mGET /Text/بلابلا HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  بلابلا
+In DataBase:   [0.0, 1647, 'شسیشسی ']
+,['بلابلا']
+
+,['بلابلا']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:32:59] "[37mGET /Text/sdsdsd HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sdsdsd
+In DataBase:   [0.0, 1649, 'بلابلا ']
+,['sdsdsd']
+
+,['sdsdsd']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:33:02] "[37mGET /Text/kl HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  kl
+In DataBase:   [0.0, 1649, 'بلابلا ']
+,['kl']
+
+,['kl']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:34:36] "[37mGET /Text/sdsd3 HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sdsd3
+In DataBase:   [0.0, 1653, 'kl ']
+,['sdsd3']
+
+,['sdsd3']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:35:11] "[37mGET /Text/weqs HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  adsadlasdl;ask;dljasl;dasl;kd
+Text :  qwbhjbnbsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+Text :  weqs
+In DataBase:   [0.0, 1655, 'sdsd3 ']
+,['weqs']
+
+,['weqs']
+
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:35:19] "[37mGET /Text/sdasdasd HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sdasdasd
+Text :  asdasdasdasd
+In DataBase:   [0.0, 1657, 'weqs ']
+,['sdasdasd']
+
+,['sdasdasd']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:35:31] "[37mGET /Text/;arncesws HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  rtghaSedgyer
+Text :  ;arncesws
+Text :  aaaaaaaaaaaaaaaaaaaaaaaa+
+In DataBase:   [0.0, 1659, 'sdasdasd ']
+,[';arncesws']
+
+,[';arncesws']
+
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:35:44] "[37mGET /Text/serfwe;rf HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sdkl;fjkerfwejr
+Text :  serfwe;rf
+In DataBase:   [0.0, 1661, ';arncesws ']
+,['serfwe;rf']
+
+,['serfwe;rf']
+
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:35:50] "[37mGET /Text/س%20یث%20صحص%20%20صثح%20قن%20ثقبث%20ص%20ص HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  س یث صحص  صثح قن ثقبث ص ص
+In DataBase:   [0.5, 594, '\u200eورید ']
+,['س', 'یث', 'صحص', '', 'صثح', 'قن', 'ثقبث', 'ص', 'ص']
+
+,['س', 'یث', 'صحص', '', 'صثح', 'قن', 'ثقبث', 'ص', 'ص']
+
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:36:00] "[37mGET /Text/شس%20صس%20صض%20ش HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  شس صس صض ش
+In DataBase:   [0.0, 1665, 'س یث صحص  صثح قن ثقبث ص ص ']
+,['شس', 'صس', 'صض', 'ش']
+
+,['شس', 'صس', 'صض', 'ش']
+
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 09:40:33] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 10:38:18] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 11:05:37] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 11:17:53] "[37mGET /Text/سیسسی HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  سیسسی
+In DataBase:   [0.0, 1667, 'شس صس صض ش ']
+,['سیسسی']
+
+,['سیسسی']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 11:18:53] "[37mGET /Text/wewe HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  wewe
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['wewe']
+
+,['wewe']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 11:26:13] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 11:26:13] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 11:26:25] "[37mGET /Text/sd HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sd
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['sd']
+
+,['sd']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 11:26:27] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [10/Sep/2020 11:27:15] "[37mGET /Text/sds HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sds
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['sds']
+
+,['sds']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 11:27:27] "[37mGET /Text/اهنگ HTTP/1.0[0m" 200 -
+127.0.0.1 - - [10/Sep/2020 11:27:47] "[37mGET /Text/سیسی HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  اهنگ
+اهنگ
+اهنگ
+اهنگ
+اهنگ
+اهنگ
+اهنگ
+اهنگ
+اهنگ
+[1, 18]
+Same Keywords :  1
+the Tag :  Play
+Answers :  []
+Text :  سیسی
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['سیسی']
+
+,['سیسی']
+
+ * Restarting with stat
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 16:02:01] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 16:02:02] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 17:37:00] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 22:09:17] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 23:12:27] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 02:45:31] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 03:40:04] "[32mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP HTTP/1.0[0m" 308 -
+127.0.0.1 - - [11/Sep/2020 03:40:06] "[35m[1mGET /index.php/?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [11/Sep/2020 03:42:38] "[33mGET /?XDEBUG_SESSION_START=phpstorm HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 04:06:21] "[33mPOST /api/jsonws/invoke HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 06:00:24] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 06:00:24] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 06:07:35] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 06:15:57] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 10:32:07] "[33mPOST /GponForm/diag_Form?style/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 12:05:02] "[31m[1mPOST /ajax HTTP/1.0[0m" 405 -
+127.0.0.1 - - [11/Sep/2020 13:51:47] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 13:51:48] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 14:24:21] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 14:24:31] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 14:24:31] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [11/Sep/2020 14:24:31] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [11/Sep/2020 14:24:34] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 14:24:34] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [11/Sep/2020 14:24:34] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [11/Sep/2020 15:29:39] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 15:29:40] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 15:45:20] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 17:49:47] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 19:36:35] "[33mGET /api/v1/pods HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Sep/2020 19:36:35] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [11/Sep/2020 19:36:36] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [11/Sep/2020 20:20:07] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 00:28:01] "[33mOPTIONS / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 03:01:27] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 05:29:30] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 05:35:36] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 09:45:14] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 11:34:11] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 11:34:12] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 11:42:37] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 12:20:32] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 12:45:47] "[32mGET /dns-query?dns=AAABAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB HTTP/1.0[0m" 308 -
+127.0.0.1 - - [12/Sep/2020 12:45:48] "[35m[1mGET /dns-query/?dns=AAABAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [12/Sep/2020 12:45:48] "[31m[1mPOST /dns-query HTTP/1.0[0m" 405 -
+127.0.0.1 - - [12/Sep/2020 13:51:38] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 17:49:02] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 19:18:10] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 19:18:10] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 19:21:16] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [12/Sep/2020 20:45:39] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [13/Sep/2020 02:26:55] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [13/Sep/2020 02:53:08] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [13/Sep/2020 06:34:22] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [13/Sep/2020 06:34:22] "[33mGET / HTTP/1.0[0m" 404 -
+ * Detected change in '/usr/local/lib/python3.6/dist-packages/requests/__init__.py', reloading
+ * Detected change in '/usr/local/lib/python3.6/dist-packages/requests/__init__.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [13/Sep/2020 14:45:11] "[37mGET /Text/بازی HTTP/1.0[0m" 200 -
+127.0.0.1 - - [13/Sep/2020 15:05:47] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [13/Sep/2020 20:25:32] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [13/Sep/2020 20:25:32] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 00:28:51] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 00:59:46] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 01:01:05] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 01:21:36] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 01:23:27] "[31m[1mPOST /sdk HTTP/1.0[0m" 405 -
+127.0.0.1 - - [14/Sep/2020 01:23:28] "[32mGET /nmaplowercheck1600061007 HTTP/1.0[0m" 308 -
+127.0.0.1 - - [14/Sep/2020 01:23:28] "[33mGET /evox/about HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 01:23:30] "[33mHEAD / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 01:23:31] "[32mGET /HNAP1 HTTP/1.0[0m" 308 -
+127.0.0.1 - - [14/Sep/2020 01:23:31] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 01:23:31] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 01:23:31] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 02:09:23] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 02:09:23] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 06:51:15] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 09:01:26] "[31m[1mPOST /ajax HTTP/1.0[0m" 405 -
+127.0.0.1 - - [14/Sep/2020 09:30:22] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 10:28:32] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 11:30:09] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 12:14:24] "[33mGET /wallet/9e74f625-abb4-4318-abb4-0451eeda95dd?api_code=1770d5d9-bcea-4d28-ad21-6cbd5be018a8&ct=1595756722524&format=json&resend_code HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 14:42:02] "[33mGET / HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [14/Sep/2020 16:31:58] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 18:17:10] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 19:22:20] "[33mGET /admin//config.php HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:45:59] "[33mGET /vod_installer/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /login/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /fedex/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /apps/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /docker/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /engine/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /app/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /sources/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /inc/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /development/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /system/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /admin/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /deployment/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /a/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /react/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[33mGET /travis/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:00] "[32mGET /.env HTTP/1.0[0m" 308 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[35m[1mGET /.env/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /public/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /backend/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /protected/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /dependencies/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /vue/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /laravel/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /auth/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /scripts/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /personal/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /cp/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /framework/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /shared/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /m/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /server/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /local/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /admin-app/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /web/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /search/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /cron/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /document/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /src/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /master/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:01] "[33mGET /application/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /frontend/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /ironment/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /project/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /rest/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /mods/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /routes/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /~dev/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /private/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /dev/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /site/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /back/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /api/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /laravel-artisan/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /config/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /cli/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 20:46:02] "[33mGET /core/.env HTTP/1.0[0m" 404 -
+127.0.0.1 - - [14/Sep/2020 22:27:13] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [15/Sep/2020 00:17:58] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [15/Sep/2020 06:19:50] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [15/Sep/2020 06:57:05] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [15/Sep/2020 06:58:29] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [15/Sep/2020 11:00:48] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [15/Sep/2020 23:19:43] "[33mGET / HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [16/Sep/2020 04:54:18] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Sep/2020 04:54:20] "[35m[1mGET /HNAP1/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [16/Sep/2020 06:43:29] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Sep/2020 06:46:01] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Sep/2020 08:06:28] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Sep/2020 08:38:31] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Sep/2020 10:59:33] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Sep/2020 11:36:25] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [16/Sep/2020 11:36:26] "[35m[1mGET /HNAP1/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [16/Sep/2020 12:55:46] "[33mGET / HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [17/Sep/2020 16:30:45] "[37mGET /Text/sdsdsdsd HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sdsdsdsd
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['sdsdsdsd']
+
+,['sdsdsdsd']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 16:30:49] "[37mGET /Text/sd HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sd
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['sd']
+
+,['sd']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 16:30:53] "[37mGET /Text/f HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  f
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['f']
+
+,['f']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 16:31:02] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 16:31:07] "[37mGET /Text/خوبی؟ HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 16:31:12] "[37mGET /Text/شسیشسی HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  خوبی؟
+خوبی
+[1, 0]
+Same Keywords :  1
+the Tag :  Greet
+Answers :  ['عالی (◕‿◕✿)', 'خوبم (◕‿◕✿)', 'بهتر از این نمیشه (◕‿◕✿)', 'معلومه که خوبم (◕‿◕✿)']
+Text :  شسیشسی
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['شسیشسی']
+
+,['شسیشسی']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 16:31:20] "[37mGET /Text/به%20بازی%20ها%20برو HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 17:09:56] "[31m[1mPOST /ajax HTTP/1.0[0m" 405 -
+Text :  به بازی ها برو
+بازی
+[1, 55]
+Same Keywords :  1
+the Tag :  Fun
+Answers :  ['href,بزن بریم بازی کنیم!,http://game.madadbot.ir/']
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 17:58:50] "[37mGET /Text/sdsds HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sdsds
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['sdsds']
+
+,['sdsds']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 22:02:56] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 00:21:57] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 03:50:58] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 05:56:23] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 06:25:31] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 09:43:19] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 09:43:20] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 12:24:15] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 13:58:25] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 14:10:09] "[33mGET / HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [18/Sep/2020 17:40:47] "[37mGET /Text/dfdf HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  dfdf
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['dfdf']
+
+,['dfdf']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [18/Sep/2020 17:41:01] "[37mGET /Text/برو%20به%20مددچت HTTP/1.0[0m" 200 -
+127.0.0.1 - - [18/Sep/2020 17:55:20] "[37mGET /Text/dsdsd HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  برو به مددچت
+100
+Text :  dsdsd
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['dsdsd']
+
+,['dsdsd']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [18/Sep/2020 17:55:24] "[37mGET /Text/سلام HTTP/1.0[0m" 200 -
+127.0.0.1 - - [18/Sep/2020 17:57:37] "[37mGET /Text/یک%20ربا HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/Lib/___Local___.py', reloading
+Text :  سلام
+سلام
+سلام
+[2, 5]
+Same Keywords :  2
+the Tag :  Greet
+Answers :  ['♥‿♥ درود بر شما ♥‿♥', 'درود ♥‿♥', 'سلام ♥‿♥', 'سلامٌ عَلِیکُم ♥‿♥', 'سلام بر تو باد ♥‿♥', 'درودِ فراوان']
+Text :  یک ربا
+100
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [18/Sep/2020 17:59:13] "[37mGET /Text/یک%20ربا HTTP/1.0[0m" 200 -
+127.0.0.1 - - [18/Sep/2020 17:59:21] "[37mGET /Text/برو%20به%20مددچت HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/External_Code/Recommend.py', reloading
+Text :  یک ربا
+100
+Text :  برو به مددچت
+100
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Detected change in '/root/MadadAi/External_Code/Recommend.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [18/Sep/2020 18:00:29] "[37mGET /Text/asasa HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  asasa
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['asasa']
+
+,['asasa']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [18/Sep/2020 18:00:49] "[37mGET /Text/در%20مورد%20modern%20family%20سرچ%20کن HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/DATA.py', reloading
+Text :  در مورد modern family سرچ کن
+سرچ
+مو
+[2, 47]
+Same Keywords :  2
+the Tag :  Internet
+Answers :  []
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [18/Sep/2020 18:02:19] "[37mGET /Text/در%20مورد%20modern%20family%20سرچ%20کن HTTP/1.0[0m" 200 -
+Text :  در مورد modern family سرچ کن
+سرچ
+مو
+[2, 47]
+Same Keywords :  2
+the Tag :  Internet
+Answers :  []
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [18/Sep/2020 19:06:00] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 21:46:48] "[33mGET / HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+127.0.0.1 - - [18/Sep/2020 22:29:12] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [18/Sep/2020 22:29:28] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [18/Sep/2020 22:29:53] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:29:53] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:29:54] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:29:55] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:30:07] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:30:07] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:30:08] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:30:09] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:30:15] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:30:17] "[33mGET /Api/Text/سلام HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 22:30:22] "[33mGET /Api/Text HTTP/1.0[0m" 404 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  64
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['64']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+127.0.0.1 - - [18/Sep/2020 22:31:13] "[37mGET /Text/sds HTTP/1.0[0m" 200 -
+ * Detected change in '/root/MadadAi/___DataBase___.py', reloading
+Text :  sds
+In DataBase:   [0.0, 1669, 'سیسسی ']
+,['sds']
+
+,['sds']
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+127.0.0.1 - - [18/Sep/2020 23:04:26] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Sep/2020 23:04:27] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 02:16:17] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 02:16:18] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 02:22:00] "[32mGET /login HTTP/1.0[0m" 308 -
+127.0.0.1 - - [19/Sep/2020 06:21:15] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 09:05:12] "[33mOPTIONS / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 10:31:13] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 10:58:07] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 12:56:41] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 12:59:30] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 14:02:46] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 14:11:34] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 15:27:26] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 15:48:13] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 17:06:04] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 17:52:38] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 17:52:50] "[32mGET /robots.txt HTTP/1.0[0m" 308 -
+127.0.0.1 - - [19/Sep/2020 17:52:51] "[32mGET /sitemap.xml HTTP/1.0[0m" 308 -
+127.0.0.1 - - [19/Sep/2020 18:08:30] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 20:08:24] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 20:41:07] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 20:41:07] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [19/Sep/2020 22:01:56] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 00:52:36] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 00:52:36] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 04:09:15] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 04:46:36] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 05:03:21] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 07:18:42] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 07:45:13] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 09:36:57] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 11:02:28] "[33mGET /cgi-bin/config.exp HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 11:15:55] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 11:15:56] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 11:45:52] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 13:05:18] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 19:35:00] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 19:35:07] "[32mGET /sitemap.xml HTTP/1.0[0m" 308 -
+127.0.0.1 - - [20/Sep/2020 19:35:07] "[32mGET /robots.txt HTTP/1.0[0m" 308 -
+127.0.0.1 - - [20/Sep/2020 19:35:07] "[33mGET /.well-known/security.txt HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 19:35:08] "[32mGET /favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [20/Sep/2020 19:35:08] "[35m[1mGET /favicon.ico/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [20/Sep/2020 19:41:22] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Sep/2020 19:58:58] "[31m[1mPOST /ajax HTTP/1.0[0m" 405 -
+127.0.0.1 - - [20/Sep/2020 23:41:49] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 02:20:12] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 07:05:53] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 07:57:20] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 07:57:21] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 08:07:13] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 08:37:43] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 08:37:43] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 13:51:47] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 15:18:51] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 15:18:51] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 18:12:22] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 20:24:46] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [21/Sep/2020 22:11:08] "[33mGET /owa/auth/logon.aspx HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 02:02:51] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 02:22:33] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 02:42:37] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 04:12:53] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 04:17:48] "[32mGET /Telerik.Web.UI.WebResource.axd?type=rau HTTP/1.0[0m" 308 -
+127.0.0.1 - - [22/Sep/2020 04:17:48] "[35m[1mGET /Telerik.Web.UI.WebResource.axd/?type=rau HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [22/Sep/2020 09:20:27] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 09:31:25] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 09:31:25] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:35:55] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:45:17] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:48:58] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:50:58] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:52:58] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:54:58] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:56:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 12:58:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:00:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:02:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:04:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:06:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:08:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:10:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:12:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:14:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:16:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:18:59] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:21:00] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:22:59] "[33mGET /remote/login HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:23:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:25:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:27:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:29:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:31:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:33:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:35:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:37:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:39:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:41:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:43:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:45:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:47:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:49:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:49:34] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:51:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:53:02] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:53:52] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:55:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:57:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:57:51] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 13:59:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:01:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:03:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:05:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:07:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:09:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:11:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:13:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:15:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:17:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:19:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:21:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:23:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:25:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:27:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:29:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:31:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:33:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:35:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:37:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:42:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:42:27] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:44:28] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:46:30] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:48:31] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:50:32] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:52:33] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:54:33] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:56:33] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 14:58:33] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:00:33] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:02:33] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:04:34] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:07:01] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:09:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:11:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:13:03] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:15:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:17:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:19:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:21:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:23:04] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:25:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:27:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:29:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:31:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:33:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:35:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:37:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:39:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:41:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:43:05] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:45:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:47:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:49:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:51:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:51:30] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:53:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:55:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:57:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 15:59:06] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:01:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:03:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:05:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:07:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:09:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:11:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:13:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:15:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:17:07] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:19:08] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:21:08] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:23:08] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:25:08] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:27:08] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:29:08] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:31:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:33:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:35:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:37:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:39:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:41:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:43:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:45:09] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:46:53] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:46:54] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:47:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:48:57] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:49:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:51:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:53:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:55:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:57:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:59:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 16:59:25] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:01:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:03:10] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:05:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:07:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:09:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:11:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:13:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:15:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:17:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:19:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:21:11] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:23:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:25:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:27:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:29:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:31:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:33:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:35:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:37:12] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:39:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:41:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:43:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:45:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:47:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:49:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:51:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:53:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:55:13] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:57:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 17:59:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:01:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:03:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:05:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:07:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:09:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:11:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:13:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:15:14] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:17:15] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:19:15] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:21:15] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:23:15] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:25:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:27:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:29:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:31:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:33:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:35:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:37:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:39:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:41:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:43:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:45:16] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:47:17] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 18:49:17] "[33mPOST / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 19:56:38] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 20:23:27] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 21:05:14] "[32mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP HTTP/1.0[0m" 308 -
+127.0.0.1 - - [22/Sep/2020 21:05:14] "[33mGET /?XDEBUG_SESSION_START=phpstorm HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 21:05:14] "[33mPOST /api/jsonws/invoke HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 21:05:15] "[35m[1mGET /index.php/?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [22/Sep/2020 21:07:49] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 21:08:51] "[33mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 23:22:06] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [22/Sep/2020 23:53:27] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 02:38:41] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 02:45:54] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 04:02:45] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 06:19:25] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 06:36:55] "[33mGET / HTTP/1.0[0m" 404 -
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/logging/__init__.py", line 998, in emit
+    self.flush()
+  File "/usr/lib/python3.6/logging/__init__.py", line 978, in flush
+    self.stream.flush()
+OSError: [Errno 28] No space left on device
+Call stack:
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.6/threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 345, in handle
+    BaseHTTPRequestHandler.handle(self)
+  File "/usr/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 379, in handle_one_request
+    return self.run_wsgi()
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 315, in execute
+    write(data)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 273, in write
+    self.send_response(code, msg)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 383, in send_response
+    self.log_request(code)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 434, in log_request
+    self.log("info", '"%s" %s %s', msg, code, size)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 446, in log
+    % (self.address_string(), self.log_date_time_string(), message % args),
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/_internal.py", line 113, in _log
+    getattr(_logger, type)(message.rstrip(), *args, **kwargs)
+Message: '127.0.0.1 - - [23/Sep/2020 06:36:55] "\x1b[33mGET / HTTP/1.0\x1b[0m" 404 -'
+Arguments: ()
+127.0.0.1 - - [23/Sep/2020 10:34:11] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 10:46:32] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 14:38:17] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 14:58:26] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 14:58:27] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 16:28:53] "[33mGET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 17:23:24] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 17:28:07] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 21:23:34] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [23/Sep/2020 23:27:56] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 00:01:50] "[35m[1mGET /solr/ HTTP/1.0[0m" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2464, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [24/Sep/2020 01:57:01] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 01:57:02] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 02:10:39] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 02:24:04] "[31m[1mPOST /ajax HTTP/1.0[0m" 405 -
+127.0.0.1 - - [24/Sep/2020 04:57:41] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 07:25:03] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 07:50:57] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 07:51:06] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 07:53:45] "[33mGET / HTTP/1.0[0m" 404 -
+127.0.0.1 - - [24/Sep/2020 09:26:52] "[33mGET / HTTP/1.0[0m" 404 -

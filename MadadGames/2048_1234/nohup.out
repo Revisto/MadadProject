@@ -1,0 +1,192 @@
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [10/Sep/2020 10:02:39] "[33mGET /2048 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 10:03:36] "[33mGET /2048 HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 10:04:08] "[33mGET /maze HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 10:05:40] "[33mGET /maze HTTP/1.0[0m" 404 -
+127.0.0.1 - - [10/Sep/2020 10:05:41] "[33mGET /maze HTTP/1.0[0m" 404 -
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [13/Sep/2020 14:46:05] "[33mGET /maze HTTP/1.0[0m" 404 -
+python3: can't open file 'BotWeb.py': [Errno 2] No such file or directory
+python3: can't open file 'Web.py': [Errno 2] No such file or directory
+python3: can't open file 'Web_Api.py': [Errno 2] No such file or directory
+ * Serving Flask app "Game" (lazy loading)
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Debug mode: on
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Debugger PIN: 275-574-212
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [17/Sep/2020 16:31:29] "[33mGET /maze HTTP/1.0[0m" 404 -
+127.0.0.1 - - [17/Sep/2020 16:31:34] "[33mGET /maze HTTP/1.0[0m" 404 -
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [17/Sep/2020 16:32:21] "[33mGET /maze HTTP/1.0[0m" 404 -
+127.0.0.1 - - [17/Sep/2020 16:32:23] "[33mGET /maze HTTP/1.0[0m" 404 -
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+127.0.0.1 - - [17/Sep/2020 17:22:04] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 17:22:05] "[32mGET /maze/static//script.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 17:22:05] "[32mGET /maze/static//style.css HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 17:22:05] "[37mGET /maze/static/script.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 17:22:05] "[37mGET /maze/static/style.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 17:22:05] "[32mGET /maze/static//favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 17:22:05] "[37mGET /maze/static/favicon.ico HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 17:23:00] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:20:09] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:17] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:18] "[32mGET /maze/static//style.css HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 21:26:18] "[32mGET /maze/static//script.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 21:26:18] "[37mGET /maze/static/script.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:18] "[37mGET /maze/static/style.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:29] "[32mGET /maze/static//favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 21:26:29] "[37mGET /maze/static/favicon.ico HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:32] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:32] "[32mGET /maze/static//style.css HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 21:26:32] "[32mGET /maze/static//script.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 21:26:32] "[37mGET /maze/static/style.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:32] "[37mGET /maze/static/script.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [17/Sep/2020 21:26:33] "[32mGET /maze/static//favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [17/Sep/2020 21:26:33] "[37mGET /maze/static/favicon.ico HTTP/1.0[0m" 200 -
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 275-574-212
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 678-676-597
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 12, in <module>
+    app.run(debug=True,port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [18/Sep/2020 22:31:21] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [18/Sep/2020 22:31:21] "[37mGET /maze/static/script.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [18/Sep/2020 22:31:22] "[36mGET /maze/static/style.css HTTP/1.0[0m" 304 -
+127.0.0.1 - - [18/Sep/2020 22:32:45] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [20/Sep/2020 20:20:08] "[37mGET /maze HTTP/1.0[0m" 200 -
+127.0.0.1 - - [20/Sep/2020 20:20:08] "[32mGET /maze/static//style.css HTTP/1.0[0m" 308 -
+127.0.0.1 - - [20/Sep/2020 20:20:08] "[32mGET /maze/static//script.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [20/Sep/2020 20:20:09] "[37mGET /maze/static/script.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [20/Sep/2020 20:20:09] "[37mGET /maze/static/style.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [20/Sep/2020 20:20:09] "[32mGET /maze/static//favicon.ico HTTP/1.0[0m" 308 -
+127.0.0.1 - - [20/Sep/2020 20:20:10] "[37mGET /maze/static/favicon.ico HTTP/1.0[0m" 200 -
