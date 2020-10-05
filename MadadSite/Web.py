@@ -15,6 +15,10 @@ app=Flask (__name__,static_url_path="/static") #static_url_path="/static"
 def Web():
     return open('index.html','r').read()
 
+@app.route('/Soon')
+def Soon():
+    return open('Soon.html','r').read()
+
 
     
 @app.route('/Message', methods=['POST'])

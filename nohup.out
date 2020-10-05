@@ -1,0 +1,517 @@
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "BotWeb" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2222/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:1230/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:1235/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Running on http://127.0.0.1:1233/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Serving Flask app "Web" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:3333/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 225-729-870
+ * Debugger is active!
+ * Debugger PIN: 225-729-870
+ * Debugger is active!
+ * Debugger PIN: 225-729-870
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 225-729-870
+ * Debugger PIN: 225-729-870
+ * Debugger is active!
+ * Debugger PIN: 225-729-870
+ * Serving Flask app "FormAction" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:2223/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 225-729-870
+ * Debugger PIN: 225-729-870
+127.0.0.1 - - [26/Sep/2020 23:31:29] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [26/Sep/2020 23:34:48] "[37mGET / HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:37] "[33mGET /robots.txt HTTP/1.0[0m" 404 -
+127.0.0.1 - - [27/Sep/2020 13:29:48] "[37mGET /?fbclid=IwAR2rxBfdKlCpcW76IGQYABMn8xi59cWswHsaFVrqSG94VUIgbG-TUHolcps HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:48] "[32mGET /static//style.css HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:48] "[37mGET /static/style.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[32mGET /static//css/responsive.css HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[32mGET /static//js/jquery-2.2.4.min.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[32mGET /static//js/popper.min.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/responsive.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/js/jquery-2.2.4.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/js/popper.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/bootstrap.min.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/animate.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/magnific-popup.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/owl.carousel.min.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/slick.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/font-awesome.min.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:49] "[37mGET /static/css/themify-icons.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[37mGET /static/css/ionicons.min.css HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//js/bootstrap.min.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//js/plugins.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[37mGET /static/js/bootstrap.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//js/slick.min.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[37mGET /static/js/plugins.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//js/footer-reveal.min.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[37mGET /static/js/slick.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//js/active.js HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[37mGET /static/js/footer-reveal.min.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[37mGET /static/js/active.js HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//img/bg-img/welcome-img.png HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//img/bg-img/special.png HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[32mGET /static//img/team-img/team-1.jpg HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:50] "[37mGET /static/img/bg-img/welcome-img.png HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/img/bg-img/special.png HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/img/team-img/team-1.jpg HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/HelveticaRegular.ttf HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/IRANSansWeb(FaNum)_Bold.ttf HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/IRANSansWeb(FaNum)_Black.ttf HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/IRANSansWeb(FaNum).ttf HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/fonts/themify.woff HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/img/bg-img/welcome-bg.png HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[32mGET /static//img/team-img/team-2.jpg HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[32mGET /static//img/team-img/team-4.jpg HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[32mGET /static//img/bg-img/video.jpg HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/img/bg-img/video.jpg HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/img/team-img/team-4.jpg HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:51] "[37mGET /static/img/team-img/team-2.jpg HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:52] "[37mGET /static/HelveticaBold.ttf HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:52] "[37mGET /static/IRANSans_Medium.ttf HTTP/1.0[0m" 200 -
+127.0.0.1 - - [27/Sep/2020 13:29:53] "[32mGET /static//favicon.png HTTP/1.0[0m" 308 -
+127.0.0.1 - - [27/Sep/2020 13:29:53] "[37mGET /static/favicon.png HTTP/1.0[0m" 200 -
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "BotWeb" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "BotWeb.py", line 13, in <module>
+    app.run(debug=True,port=2222)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Tower.py", line 11, in <module>
+    app.run(debug=True, port=1233)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 12, in <module>
+    app.run(debug=True,port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 13, in <module>
+    app.run(debug=True,port=1230)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1235)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web.py", line 37, in <module>
+    app.run(debug=True,port=3333)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "FormAction" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "FormAction.py", line 95, in <module>
+    app.run(debug=True,port=9999)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "BotWeb" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 13, in <module>
+    app.run(debug=True,port=1230)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1235)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Game.py", line 12, in <module>
+    app.run(debug=True,port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "BotWeb.py", line 13, in <module>
+    app.run(debug=True,port=2222)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Tower.py", line 11, in <module>
+    app.run(debug=True, port=1233)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web.py", line 37, in <module>
+    app.run(debug=True,port=3333)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "FormAction" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "FormAction.py", line 95, in <module>
+    app.run(debug=True,port=9999)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "BotWeb" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Tower" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "Game" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "BotWeb.py", line 13, in <module>
+    app.run(debug=True,port=2222)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Tower.py", line 11, in <module>
+    app.run(debug=True, port=1233)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 11, in <module>
+    app.run(debug=True, port=1235)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 12, in <module>
+    app.run(debug=True,port=1234)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 13, in <module>
+    app.run(debug=True,port=1230)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web.py", line 37, in <module>
+    app.run(debug=True,port=3333)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+ * Serving Flask app "Web_Api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "FormAction" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "Web_Api.py", line 45, in <module>
+    app.run(debug=True, port=2223)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "FormAction.py", line 95, in <module>
+    app.run(debug=True,port=9999)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/usr/local/lib/python3.6/dist-packages/werkzeug/serving.py", line 1030, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Game.py", line 2, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "BotWeb.py", line 2, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "FormAction.py", line 2, in <module>
+    from flask import Flask, render_template, request,redirect
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Game.py", line 1, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Game.py", line 1, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Tower.py", line 1, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Web_Api.py", line 11, in <module>
+    from MainAiFunction import *
+  File "/root/MadadBot/MadadAi/MainAiFunction.py", line 18, in <module>
+    from DATA import *
+  File "/root/MadadBot/MadadAi/DATA.py", line 2, in <module>
+    from Lib.___Local___ import *
+  File "/root/MadadBot/MadadAi/Lib/___Local___.py", line 1, in <module>
+    from  Lib.___Libraries___ import *
+  File "/root/MadadBot/MadadAi/Lib/___Libraries___.py", line 5, in <module>
+    import speech_recognition as sr
+ModuleNotFoundError: No module named 'speech_recognition'
+Traceback (most recent call last):
+  File "Web.py", line 2, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "BotWeb.py", line 2, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Web_Api.py", line 11, in <module>
+    from MainAiFunction import *
+  File "/root/MadadBot/MadadAi/MainAiFunction.py", line 18, in <module>
+    from DATA import *
+  File "/root/MadadBot/MadadAi/DATA.py", line 2, in <module>
+    from Lib.___Local___ import *
+  File "/root/MadadBot/MadadAi/Lib/___Local___.py", line 1, in <module>
+    from  Lib.___Libraries___ import *
+  File "/root/MadadBot/MadadAi/Lib/___Libraries___.py", line 5, in <module>
+    import speech_recognition as sr
+ModuleNotFoundError: No module named 'speech_recognition'
+Traceback (most recent call last):
+  File "Game.py", line 2, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Game.py", line 1, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "FormAction.py", line 2, in <module>
+    from flask import Flask, render_template, request,redirect
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Tower.py", line 1, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Game.py", line 1, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "Web.py", line 2, in <module>
+    from flask import Flask
+ModuleNotFoundError: No module named 'flask'
